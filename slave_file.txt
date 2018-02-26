@@ -1,0 +1,1 @@
+This is 4th line created in "Slave" branch. I am trying to merge this line with original file in master branch.
