@@ -1,3 +1,5 @@
 This is first master file created today. 
 This is new 2nd line added just now.
 Adding 3rd line to master file.
+Adding 4th line and saving this file in slave "branch".
+Adding 5th line to original master file taken from master branch and saving in slave branch.
